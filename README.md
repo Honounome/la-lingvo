@@ -1,2 +1,2 @@
 # la-lingvo
-Just me and @EndryoMachado trying to create a language
+Just @Honounome and @EndryoMachado trying to create a language
