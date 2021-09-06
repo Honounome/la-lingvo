@@ -1,55 +1,9 @@
-<h1> CONSONANTS:<h1>
+# CONSONANTS:
 
-- Confirmed:
+### Confirmed:
 
-  p
-  
-  b
+p | b | m | f | v | t | d | n | ɲ - nh | r | s | z | l | ʃ - sh | ʒ - j | j - short i | ʎ - lh | k | g | h - "hit" | ɦ - rr |
 
-  m
-  
-  f
-  
-  v
-  
-  t
-  
-  d
-  
-  n
+### In analysis:
 
-  ɲ - nh
-  
-  r
-  
-  s
-  
-  z
-  
-  l
-  
-  ʃ - sh
-  
-  ʒ - j
-  
-  j - short i
-  
-  ʎ - lh
-  
-  k
-  
-  g
-  
-  h - "hit"
-  
-  ɦ - rr
-
-  
-- In analysis:
-
-  ð - th
-  
-  θ - th (voiced)
-  
-  r - trill
-  
+ð - th | θ - th (voiced) | r - trill
