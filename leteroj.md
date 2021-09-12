@@ -6,4 +6,4 @@ p | b | m | f | v | t | d | n | ɲ - nh | r | s | z | l | ʃ - sh | ʒ - j | j -
 
 ### In analysis:
 
-ð - th | θ - th (voiced) | r - trill
+ð - th (voiced) | θ - th (unvoiced) | r - trill
